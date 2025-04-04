@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Fool",
+    "meaning": "New beginnings, spontaneity, free spirit. Trust the journey even if you don’t know where it leads.",
+    "emoji": "🃏"
+  },
+  {
+    "name": "The Magician",
+    "meaning": "Manifestation, resourcefulness, power. You already have what you need to create magic.",
+    "emoji": "🪄"
+  },
+  {
+    "name": "The High Priestess",
+    "meaning": "Intuition, mystery, inner knowledge. Trust your inner voice — it already knows.",
+    "emoji": "🔮"
+  },
+  {
+    "name": "The Empress",
+    "meaning": "Beauty, abundance, nature. Nurture what matters most.",
+    "emoji": "🌸"
+  },
+  {
+    "name": "The Hermit",
+    "meaning": "Soul-searching, introspection, solitude. The answers lie within.",
+    "emoji": "🧘"
+  },
+  {
+    "name": "The Tower",
+    "meaning": "Sudden change, upheaval, awakening. Let go of what must fall.",
+    "emoji": "⚡"
+  }
+]

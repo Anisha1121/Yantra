@@ -1,0 +1,14 @@
+[
+  { "name": "Aries", "element": "Fire", "dates": "Mar 21 - Apr 19", "message": "You are bold and passionate. Act on your instincts." },
+  { "name": "Taurus", "element": "Earth", "dates": "Apr 20 - May 20", "message": "Steady and loyal, you are the rock others rely on." },
+  { "name": "Gemini", "element": "Air", "dates": "May 21 - Jun 20", "message": "Curious and clever — your mind never rests." },
+  { "name": "Cancer", "element": "Water", "dates": "Jun 21 - Jul 22", "message": "Empathic and nurturing, your emotions guide you." },
+  { "name": "Leo", "element": "Fire", "dates": "Jul 23 - Aug 22", "message": "Confident and radiant, you lead from the heart." },
+  { "name": "Virgo", "element": "Earth", "dates": "Aug 23 - Sep 22", "message": "Precise and thoughtful — order brings you peace." },
+  { "name": "Libra", "element": "Air", "dates": "Sep 23 - Oct 22", "message": "Balance and beauty shape your every decision." },
+  { "name": "Scorpio", "element": "Water", "dates": "Oct 23 - Nov 21", "message": "Mysterious and intense, you feel everything deeply." },
+  { "name": "Sagittarius", "element": "Fire", "dates": "Nov 22 - Dec 21", "message": "Freedom and adventure fuel your spirit." },
+  { "name": "Capricorn", "element": "Earth", "dates": "Dec 22 - Jan 19", "message": "Disciplined and wise, you are built to endure." },
+  { "name": "Aquarius", "element": "Air", "dates": "Jan 20 - Feb 18", "message": "Visionary and unique — you walk your own path." },
+  { "name": "Pisces", "element": "Water", "dates": "Feb 19 - Mar 20", "message": "Dreamy and compassionate, you feel the world's rhythm." }
+]
